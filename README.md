@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Semih Çamkerten</h1>
-<h3 align="center">Legal consultant & Data Analyst focusing on Legal Analytics, Data Science, Agent-Based Modeling and Social Network Analysis.</h3>
+<h3 align="center">Legal consultant & Data Analyst focusing on Legal Analytics, Artificial Intelligence, Agent-Based Modeling and Social Network Analysis.</h3>
 
 - 🔭 I’m currently working on Agent-Based modeling in Legal discipline [Simulating the Effects of Law on Patent Licensing Process: Agent-Based Modeling Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410437)
 
-- 🌱 I’m currently learning **Python,Agent-Based modeling, Social Network Analysis**
+- 🌱 I’m currently learning **Python, Machine Learning, Agent-Based modeling, Social Network Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LawyerDev68](https://github.com/LawyerDev68)
 
-- 💬 Ask me about **Legal Analytics**
+- 💬 Ask me about **Legal Analytics and AI**
 
 - 📫 How to reach me **ascamkerten@gmail.com**
 
