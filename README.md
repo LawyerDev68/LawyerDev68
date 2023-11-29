@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Semih Çamkerten</h1>
 <h3 align="center">Legal consultant & Data Analyst focusing on Legal Analytics, Artificial Intelligence, Agent-Based Modeling and Social Network Analysis.</h3>
 
-- 🔭 I’m currently working on Computer Vision, Video AI and Law
+- 🔭 I’m currently working on **Law & AI**
 
-- 🌱 I’m currently learning **Python, Machine Learning, Agent-Based modeling, Social Network Analysis**
+- 🌱 I’m currently learning **Python, Machine Learning, Computer Vision, Social Network Analysis, Agent-Based Modeling**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LawyerDev68](https://github.com/LawyerDev68)
 
